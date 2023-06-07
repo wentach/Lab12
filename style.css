@@ -1,0 +1,36 @@
+body {    
+    font-style: italic;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+  }
+  
+  h1 {
+    color: #ff0000;
+    font-weight: normal;
+    text-align: center;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #000000;
+  }
+  
+  img {
+    float: left;
+    margin-right: 20px;
+  }
+  
+  a:link {
+    color: #0000ff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #ff0000;
+    text-decoration: underline;
+  }
+  
+  a:visited {
+    color: #008006;
+    text-decoration: none;
+  }
